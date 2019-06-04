@@ -1,4 +1,6 @@
-# shopping-list
+# Vue Dashboard
+
+<a href="https://simmedia-note.herokuapp.com/ target="_blank">view demo</a>
 
 ## Project setup
 ```
