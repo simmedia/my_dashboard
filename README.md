@@ -1,7 +1,8 @@
 # Vue Dashboard
 
-<a href="https://simmedia-note.herokuapp.com/ target="_blank">view demo</a>
-
+[View Demo](https://simmedia-note.herokuapp.com/)
+                   
+              
 ## Project setup
 ```
 npm install
