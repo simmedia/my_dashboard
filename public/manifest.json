@@ -1,0 +1,25 @@
+{
+  "name": "My notes",
+  "short_name": "My notes",
+  "icons": [
+    {
+      "src": "./img/icons/logo1.png",
+      "sizes": "90x90",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/logo2.png",
+      "sizes": "192x292",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/logo3.png",
+      "sizes": "612x612",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#4b4b4b",
+  "theme_color": "#ff3838"
+}
